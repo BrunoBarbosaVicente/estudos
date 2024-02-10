@@ -1,0 +1,19 @@
+        >Git e GitHub<
+
+        <Comandos>
+
+   git clone: clona um repositório Git exixtente para um novo diretótio (pasta) local.
+
+   git commit: grava alterações no repositório.
+
+   git pull: 'puxa' as alterações do repositório remoto para o local (busca e mescla).
+
+   git push: 'empurra' as alterações do repositório local para o remoto.
+
+   git init: inicia um novo repositorio
+
+   
+
+        >Criando ou clonando repositorio<
+
+    
